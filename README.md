@@ -1,7 +1,7 @@
 # Week3Alarm
 week3 project
 import UIKit
-
+//게임공학전공 편정훈
 class ViewController: UIViewController {
     @IBOutlet var lblCurrentTime: UILabel!
     @IBOutlet var lblPickerTime: UILabel!
