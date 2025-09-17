@@ -1,6 +1,7 @@
 # Week3Alarm
 # 게임공학전공 편정훈
-# ![Alarm operate](https://github.com/minsu24/Week3AlarmPyunJeongHun/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-17%20at%2012.19.01.png)
+# ![Alarm on](https://github.com/minsu24/Week3AlarmPyunJeongHun/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-17%20at%2012.19.01.png)
+# ![Alarm off](https://github.com/minsu24/Week3AlarmPyunJeongHun/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-17%20at%2012.19.05.png)
 week3 project
 import UIKit
 class ViewController: UIViewController {
